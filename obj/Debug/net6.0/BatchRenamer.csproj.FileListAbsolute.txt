@@ -1,0 +1,15 @@
+C:\Users\nwatt\Repos\BatchRenamer\bin\Debug\net6.0\BatchRenamer.exe
+C:\Users\nwatt\Repos\BatchRenamer\bin\Debug\net6.0\BatchRenamer.deps.json
+C:\Users\nwatt\Repos\BatchRenamer\bin\Debug\net6.0\BatchRenamer.runtimeconfig.json
+C:\Users\nwatt\Repos\BatchRenamer\bin\Debug\net6.0\BatchRenamer.dll
+C:\Users\nwatt\Repos\BatchRenamer\bin\Debug\net6.0\BatchRenamer.pdb
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.csproj.AssemblyReference.cache
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.AssemblyInfoInputs.cache
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.AssemblyInfo.cs
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.csproj.CoreCompileInputs.cache
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.dll
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\refint\BatchRenamer.dll
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.pdb
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\BatchRenamer.genruntimeconfig.cache
+C:\Users\nwatt\Repos\BatchRenamer\obj\Debug\net6.0\ref\BatchRenamer.dll
